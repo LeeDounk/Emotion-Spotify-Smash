@@ -15,14 +15,14 @@ I have built a small script to show how quickly I can use RapidAPI to do somethi
 ![Beyonce Smiling](https://wallpaperscraft.com/image/beyonce_smile_face_lips_hair_5905_1280x1024.jpg)
 
 ### Output:
-happiness
+"happiness"
 
 ## SpotifyPublicAPI
 ### Input:
-happiness
+"happiness"
 
 ### Output:
-Playlist name: Happy Hits!
-External URL: http://open.spotify.com/user/spotify/playlist/65V6djkcVRyOStLd8nza8E
-Owner: Spotify
-Tracks: 50
+- Playlist name: Happy Hits!
+- External URL: http://open.spotify.com/user/spotify/playlist/65V6djkcVRyOStLd8nza8E
+- Owner: Spotify
+- Tracks: 50
